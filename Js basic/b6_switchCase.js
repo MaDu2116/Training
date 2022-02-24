@@ -1,0 +1,1 @@
+//Switch case trong js cũng như các ngôn ngữ khác
